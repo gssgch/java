@@ -1,0 +1,9 @@
+
+//java中关键字有
+extends implements class public static void int super
+const false class extends implements 
+null 
+等等
+
+注意：NULL不是关键字
+个人理解：建包的时候，不允许的包名都是关键字
